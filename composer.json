@@ -1,20 +1,16 @@
 {
     "authors": [
         {
-            "email": "me578022@gmail.com",
-            "name": "S.C. Chen"
+            "email": "dan@perfectcu.be",
+            "name": "Dan Bryant"
         },
-        {
-            "email": "minottoemanuele@gmail.com",
-            "name": "Emanuele Minotto"
-        }
     ],
     "autoload": {
         "files": [
             "simple_html_dom.php"
         ]
     },
-    "description": "PHP Simple HTML DOM Parser",
+    "description": "a composer wrapper for https://sourceforge.net/projects/simplehtmldom/files/simplehtmldom/",
     "license": "MIT",
-    "name": "emanueleminotto/simple-html-dom"
+    "name": "perfectcube/simple-html-dom"
 }
