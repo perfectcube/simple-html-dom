@@ -3,7 +3,7 @@
         {
             "email": "dan@perfectcu.be",
             "name": "Dan Bryant"
-        },
+        }
     ],
     "autoload": {
         "files": [
